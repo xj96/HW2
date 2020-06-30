@@ -42,6 +42,10 @@ a:hover{
     text-decoration: none;
 }
 
+a:active{
+    background-color: #23395d;
+}
+
 div a{
     background-color: #eee;
     top: 0em;
@@ -80,10 +84,16 @@ img{
 
 .card{
     padding: 20px;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-bottom: 30px;
 }
 
-#formScale{
-    width: 90%;
+/* Tablet */
+@media (min-width: 600px){
+
+}
+
+/* Desktop */
+@media (min-width: 768px){
+
 }
