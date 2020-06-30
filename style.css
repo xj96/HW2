@@ -1,5 +1,15 @@
+ *{
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+ }
+ 
  h1{
     text-align: center;
+}
+
+h2{
+    padding-top: 5px;
 }
 
 header{
@@ -44,6 +54,10 @@ div a{
     padding: 35px 35px;
 }
 
+div p{
+    padding: 15px;
+}
+
 footer{
     position: fixed;
     left: 0px;
@@ -52,6 +66,24 @@ footer{
     background-color: #23395d;
     color: #fff;
     text-align: center;
-    height: 75px;
-    padding: 25px 25px;
+    height: 50px;
+}
+
+footer p{
+    padding-top:15px;
+}
+
+img{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.card{
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#formScale{
+    width: 90%;
 }
