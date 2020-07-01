@@ -1,0 +1,4 @@
+Homework 2
+
+Description:
+This assignment was challenging. I wasn't able to get it fully responsive like I wanted. I was trying to fix the responsiveness on my index page by having the bio text be to the right of my picture at a certain break point but I could not figure it out. I was most satisfied with the portfolio page's design and responsiveness. I was able to make my footer sticky, so that was a plus for me because I was having difficulties with that for a while. I am not done with how the portfolio website looks. The most trouble for me came with the navigation bar. I find it easier to not use nav with list items when creating a nav bar. I ended up using links without them. 
