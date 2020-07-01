@@ -4,12 +4,17 @@
      box-sizing: border-box;
  }
  
+ 
  h1{
     text-align: center;
 }
 
 h2{
     padding-top: 5px;
+}
+
+p{
+    margin-bottom: 50px;
 }
 
 header{
@@ -22,6 +27,10 @@ header{
     padding: 20px;
     margin: 0 auto;
     text-align: center;
+}
+
+li{
+    list-style: none;
 }
 
 div.container-fluid{
@@ -85,15 +94,23 @@ img{
 .card{
     padding: 20px;
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 70px;
 }
 
+/* Phone */
+@media (min-width: 576px){
+    .card{
+        width: 100%;
+    }
+}
+
+
 /* Tablet */
-@media (min-width: 600px){
+@media (min-width: 768px){
 
 }
 
 /* Desktop */
-@media (min-width: 768px){
+@media (min-width: 960px){
 
 }
